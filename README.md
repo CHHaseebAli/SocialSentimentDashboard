@@ -22,4 +22,5 @@ SentimentScope is a sentiment analysis project that processes and analyzes text 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/SentimentScope.git
+   git clone https://github.com/
+CHHaseebAli/SentimentScope.git
